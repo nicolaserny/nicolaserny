@@ -1,9 +1,31 @@
-# Hej
+# Hey, I'm Nicolas 👏
 
-I'm Nicolas. I love coding and building things (but also traveling, dreaming, and taking [photos](https://photonicolas.com/)).
+I love coding, building things, and I'm a Neovim enthusiast.
 
-> My mojo: "Never stop learning. Just think for a second: the universe is so huge and life so short. I'm pretty sure a new idea is just around the corner."
+Beyond the screen, I'm drawn to the call of the wild: traveling, hiking, and cross-country skiing. I also find joy in dreaming and capturing moments through [photography](https://photonicolas.com/).
 
-I work at [Invivoo](https://www.invivoo.com) as a software engineer in Paris, France. For more information about me, follow me on [Twitter](https://twitter.com/NicolasErny). 
+I’m always working to improve myself and expand my knowledge.
 
-Check out my latest [personal project](https://github.com/nicolaserny/yoga-by-delphine): [YogaByDelphine](https://yogabydelphine.com/) is a website to book yoga courses. 
+> My philosophy: "Never stop learning. Consider this: the universe is vast, life is short, and I believe a new idea is always just around the corner."
+
+I work at [Invivoo](https://www.invivoo.com) as a lead developer and technical architect in Paris, France.
+
+## Tech stack
+
+- Languages: Javascript, Typescript, C#
+- Web: HTML, CSS, React, Nodejs, Remix, Tailwind
+- Data / Infrastructure: Azure, SQLServer, RabbitMQ, Redis
+- DevOps: Docker, Kubernetes, Helm, Terraform, Netlify, CircleCI, Git
+- Collaborative Work Tools: Jira, Miro, Excalidraw, Notion, Slack
+
+## Side projects
+
+Recent projects I worked on in my free time:
+
+- [YogaByDelphine](https://github.com/nicolaserny/yoga-by-delphine): Website to book yoga courses - React, Remix, Tailwind, Shopify, Netlify
+- [Neovim config](https://github.com/nicolaserny/dotFiles): dotfiles + Neovim config - Lua
+- [Advent of code](https://github.com/nicolaserny/AdventOfCode): Advent calendar of small programming puzzles - Javascript
+- [Talks](https://github.com/nicolaserny/talks): Talk at ESGI Engineering School on Jamstack
+- [Blog posts](https://dev.to/nicolaserny)
+- [Ocean of code](https://github.com/nicolaserny/ocean-of-code): CodinGame contest - Javascript
+
